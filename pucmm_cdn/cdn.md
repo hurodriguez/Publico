@@ -1,0 +1,1 @@
+https://statically.io/
