@@ -1,0 +1,28 @@
+{
+  "name": "librarian",
+  "version": "0.0.1",
+  "description": "Wiki search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/rudolfo/librarian.git"
+  },
+  "keywords": [
+    "wiki",
+    "search"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/rudolfo/librarian/issues"
+  },
+  "homepage": "https://gitlab.com/rudolfo/librarian#README",
+  "dependencies": {
+    "commonmark": "^0.27.0",
+    "stemmer": "^1.0.0",
+    "walk": "^2.3.9"
+  }
+}
