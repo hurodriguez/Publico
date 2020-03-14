@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 node_modules
-.idea
-dist
-yarn-error.log
-.temp
-=======
-node_modules/
-*~
-wiki/
->>>>>>> 0e6ea249dd9043a0cb7d2dabafb691b37ca42a09
+.DS_Store
+docs/.vuepress/dist
