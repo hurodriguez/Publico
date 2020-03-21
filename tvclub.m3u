@@ -1,0 +1,104 @@
+#EXTM3U
+
+# =======================================================
+# Playlist Name: TvHugo
+# Playlist ID: 7nCQTkKP
+# Last Update: JUL-16-2019
+# =======================================================
+#   ~ This playlist is property of ~
+#
+#   ▂▃▅▇█▓▒░ Sabux Media ▓█▇▅▃▂
+#
+#   Copyright © 2019 Sabux Media Inc. All rights reserved.
+#   Peliculas
+#   http://srregio.xyz/IPTV/regioflix.m3u
+#   https://pastebin.com/raw/U5Nai4hs
+#   http://m3ues.com/images/listas-de-canales.png
+#
+# url Corta http://bit.do/tvclub
+# =======================================================
+
+# =====================RD==================================
+#EXTINF:-1 tvg-logo="http://bit.do/eUA5Z" group-title="RD",The Walking Dead
+http://q18.gamovideo.com:8777/pvap5hi2nrnv3h2yuec5v52ke2j32bifz3hsmnawxwtnvktvdt5fq6njdeyq/v.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.do/eUA5Z" group-title="RD",Tele Antillas 2
+http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
+
+#EXTINF:-1,Color Vision 9
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1798875067.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD",Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/yd7a" group-title="RD",TELEUNION CANAL 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w351907011.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/1w6u" group-title="RD",TELEMEDIOS CANAL 25
+http://ss1.domint.net:2108/c25_str/canal25/chunklist_w363921999.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD",Teleuniverso 29
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRA 45" tvg-logo="https://urlzs.com/zXNG" group-title="RD",TRA 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w908202833.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/HrXv" group-title="RD",SUPER TV 55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/kMrY" group-title="RD",TELECONTACTO 57
+http://server3.prostudionetwork.com:1995/telecontacto/TC/chunklist_w157703335.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RD", Nexxo 20
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+# =====================NOTICIAS==================================
+#EXTINF:-1 tvg-logo="#" tvg-name="RT" group-title="Noticias",RT
+http://rt-esp.secure.footprint.net/1102.m3u8
+ 
+#EXTINF:-1 tvg-logo="Q2WEX34.png"  group-title="Noticias",Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="Noticias",CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+# =====================PREMIUM==================================
+
+#EXTINF:-1 group-title="PREMIUM" tvg-name="HBO",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-name="HBO",HBO
+http://flow.nibbletv.info/CH/WWSRSDnmDz5/HBO.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Telecentro
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://bit.do/tv0001", PARAMOUNT
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PREMIUM:FOX SERIES PREMIUM" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="CINEMA PREMIUM",CINEMA PREMIUM:FOX SERIES PREMIUM
+http://plexonline.club:25461/live/listam3u32/sinxxx/233.ts
+# =====================ENTRETENIMIENTO==================================
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Telemundo 1
+//ok.ru/videoembed/1298382069440
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta
+https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
+
+
+
+# =====================MUSICA==================================
+#EXTINF:-1 tvg-logo="#" group-title="Musica",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="#" tvg-name="Somos TopoPoint" group-title="PREMIUM",Somos TopoPoint
+https://cm.hostlagarto.com:4445/somostopopointtv/somostopopointtv.myStream/chunks.m3u8
+
+# =====================CULTURA==================================
