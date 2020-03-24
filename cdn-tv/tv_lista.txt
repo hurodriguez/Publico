@@ -64,12 +64,6 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 
 # =====================PREMIUM==================================
 
-#EXTINF:-1 group-title="PREMIUM",Telecentro
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
-
-#EXTINF:-1 group-title="CINE",MAX PRIME 
-http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
-
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://bit.do/tv0001", PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
@@ -83,9 +77,6 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Televisión Española
 https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Público y culturales
-https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/0/0/3300000000000.mp4/3300000000000-audio=92880-video=397296.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
