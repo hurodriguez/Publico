@@ -17,7 +17,7 @@
 http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
 
 #EXTINF:-1,Color Vision 9
-https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2YxBLo2N4aie1Lwir18OME)/dm/3/x7gy059/d/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2YxBLo2N4aie1Lwir18OME)/dm/3/x7gy059/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="RD",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
@@ -46,7 +46,13 @@ http://server3.prostudionetwork.com:1995/telecontacto/TC/chunklist_w157703335.m3
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RD", Nexxo 20
 http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RD", ORBIT
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
 # =====================NOTICIAS==================================
+#EXTINF:-1 tvg-logo="#" tvg-name="RT" group-title="Noticias",Euronews
+https://euronews-es-p12-cdn.hexaglobe.net/609fa4823b40c4154789876f3042cc6f/5e7835c6/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_240p.m3u8
+
 #EXTINF:-1 tvg-logo="#" tvg-name="RT" group-title="Noticias",RT
 http://rt-esp.secure.footprint.net/1102.m3u8
  
@@ -58,42 +64,32 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 
 # =====================PREMIUM==================================
 
-#EXTINF:-1 group-title="PREMIUM" tvg-name="HBO",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-name="HBO",HBO
-http://flow.nibbletv.info/CH/WWSRSDnmDz5/HBO.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",Telecentro
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 group-title="CINE",MAX PRIME 
+http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://bit.do/tv0001", PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
 # =====================ENTRETENIMIENTO==================================
-#EXTINF:-1  group-title="ENTRETENIMIENTO",Telemundo 1
-http://ul.cdn946.net:8080/hls/ebc3wsw.m3u8?s=LdG5GB7JgdsuLnLSQfykfA&e=1561702477
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 24h
+https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Televisión Española
+https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Público y culturales
+https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/0/0/3300000000000.mp4/3300000000000-audio=92880-video=397296.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox.png" group-title="ENTRETENIMIENTO",FOX
-http://flow.nibbletv.info/CH/8n9pD80P6wR/FOX.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/space.png" group-title="ENTRETENIMIENTO",Space
-http://flow.nibbletv.info/CH/8n9pD80P6wR/Space.m3u8
-
 
 # =====================MUSICA==================================
 #EXTINF:-1 tvg-logo="#" group-title="Musica",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-
-# =====================CULTURA==================================
-
-#EXTINF:-1 tvg-logo="#" group-title="Musica",MTV2
-https://stream-3991-48-215.pvdcdn.co/liohpspjeiikkfn2mcxp6miugz5yycox3f3he6gw6dticoy5vmm6jgxowq/v.mp4
-
-
