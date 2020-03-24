@@ -68,7 +68,6 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
 # =====================ENTRETENIMIENTO==================================
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 24h
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
@@ -84,3 +83,6 @@ https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
 # =====================MUSICA==================================
 #EXTINF:-1 tvg-logo="#" group-title="Musica",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Emisoras",Z101
+https://www.youtube.com/watch?v=NCu9ndW_vQc
