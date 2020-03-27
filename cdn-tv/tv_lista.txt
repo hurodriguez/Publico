@@ -34,6 +34,9 @@ http://ss1.domint.net:2108/c25_str/canal25/chunklist_w363921999.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="RD",Teleuniverso 29
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
 
+#EXTINF:-1 tvg-logo="#" group-title="RD",CDN 2
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1585436194~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=0ca1a046a613563b3730769027581ce570064d50ddf89de682b7aa9c13af9804
+
 #EXTINF:-1 tvg-logo="#" group-title="RD",CDN
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1585348254~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=ade72868a2a14baf000ef731b4db320b537100d5605ab571613b285e6fb676b8
 
