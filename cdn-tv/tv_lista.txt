@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/SilentButeo2/webgrabplus-siteinipack/master/siteini.pack/Mexico/entutele.com.channels.xml"
 # =======================================================
 # Playlist Name: TvHugo
 # =======================================================
