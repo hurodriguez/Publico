@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
 # =======================================================
 # Playlist Name: TvHugo
 # =======================================================
@@ -83,6 +83,9 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
 
+# =====================EDUCATIVO==================================
+#EXTINF:-1 group-title="EDUCATIVO",Vaughan-Ap-English
+https://www.youtube.com/watch?v=RfKTn6UGsiw
 # =====================MUSICA==================================
 #EXTINF:-1 tvg-logo="#" group-title="Musica",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
