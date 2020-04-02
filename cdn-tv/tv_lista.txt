@@ -13,16 +13,16 @@
 # =======================================================
 
 # =====================RD==================================
-#EXTINF:-1 tvg-logo="http://bit.do/eUA5Z" group-title="RD",Tele Antillas 2
+#EXTINF:-1 tvg-logo="https://cutt.ly/MtU883B" group-title="RD",Tele Antillas 2
 http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
 
-#EXTINF:-1,Color Vision 9
+#EXTINF:-1  tvg-logo="shorturl.at/abtCF" group-title="RD",Color Vision 9
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8728Ki0nPPDrZX16qJLmlw)/dm/3/x7gy059/d/live-0.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
-#EXTINF:-1 tvg-logo="#" group-title="RD",Microvision 10
+#EXTINF:-1 tvg-logo="https://cutt.ly/PtU85mM" group-title="RD",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="RD",Telesistema 11
+#EXTINF:-1 tvg-logo="https://cutt.ly/1tU86xM" group-title="RD",Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://urlzs.com/yd7a" group-title="RD",TELEUNION CANAL 16
@@ -31,7 +31,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w351907011.m3u8
 #EXTINF:-1 tvg-logo="https://urlzs.com/1w6u" group-title="RD",TELEMEDIOS CANAL 25
 http://ss1.domint.net:2108/c25_str/canal25/chunklist_w363921999.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="RD",Teleuniverso 29
+#EXTINF:-1 tvg-logo="https://cutt.ly/TtU4efw" group-title="RD",Teleuniverso 29
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="RD",CDN
