@@ -68,16 +68,16 @@ http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 http://acentotv01.streamprolive.com/hls/live.m3u8
 
 # =====================NOTICIAS==================================
-#EXTINF:-1 tvg-logo="#" tvg-name="Euronews" group-title="Noticias",Euronews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" tvg-name="Euronews" group-title="Noticias",Euronews
 https://euronews-es-p12-cdn.hexaglobe.net/609fa4823b40c4154789876f3042cc6f/5e7835c6/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_240p.m3u8
 
-#EXTINF:-1 tvg-logo="#" tvg-name="RT" group-title="Noticias",RT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
 http://rt-esp.secure.footprint.net/1102.m3u8
  
-#EXTINF:-1 tvg-logo="Q2WEX34.png"  group-title="Noticias",Deutsche Welle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png"  group-title="Noticias",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 group-title="Noticias",CGTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="Noticias",FOROtv
@@ -85,20 +85,23 @@ https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
 
 # =====================PREMIUM==================================
 
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://bit.do/tv0001", PARAMOUNT
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/Bxkfw8k.png", PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
 # =====================ENTRETENIMIENTO==================================
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 24h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9QX555.png" group-title="ENTRETENIMIENTO", Canal 24h
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Televisión Española
 https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ENTRETENIMIENTO",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",La Sexta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="ENTRETENIMIENTO",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iP4WSVc.png" group-title="ENTRETENIMIENTO",La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
 
 # =====================EDUCATIVO==================================
