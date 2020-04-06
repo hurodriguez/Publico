@@ -1,23 +1,9 @@
-body, .ms-core-defaultFont, #pageStatusBar, .ms-status-msg, .js-callout-body {
-    font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-    font-size: 14px;
-}
-body, .ms-core-defaultFont, .js-callout-body {
-    color: #777;
-}
 .ms-core-defaultFont {
     font-weight: normal;
     text-decoration: none;
     white-space: normal;
     word-break: normal;
     line-height: normal;
-}
-body {
-    margin: 0;
-    overflow: hidden;
-    background-color: #fff;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 html>.ms-core-needIEFilter {
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='about:blank', sizingMethod='scale');
@@ -29,40 +15,6 @@ html>.ms-core-needIEFilter {
 #s4-bodyContainer{padding-bottom:0px;}
 #s4-bodyContainer>.ms-table {height: 100%;}
 
-h1, h2, h3, h4, h5, h6, .ms-h1, .ms-h2, .ms-h3, .ms-h4, .ms-h5, .ms-h6 {
-    margin: .5em 0;
-    font-weight: auto;
-}
-h1, .ms-h1 {
-    font-family: "Roboto", Helvetica, Arial, Verdana, sans-serif;
-    font-size: auto;
-    color: auto;
-    font-weight: auto;
-}
-h2, h3, .ms-h2, .ms-h3, .ms-headerFont {
-    font-family: "Roboto", Helvetica, Arial, Verdana, sans-serif;
-    color: auto;
-    font-weight: auto;
-}
-h2, .ms-h2 {
-    font-size: auto;
-}
-h3, .ms-h3 {
-    font-size: auto;
-}
-h4, h5, h6, .ms-h4, .ms-h5, .ms-h6 {
-    font-family: "Roboto", Helvetica, Arial, Verdana, sans-serif;
-}
-h4, .ms-h4 {
-    font-size: auto;
-    color: auto;
-}
-h5, .ms-h5 {
-    font-size: auto;
-}
-h6, .ms-h6 {
-    font-size: auto;
-}
 img {
     border: 0;
     -webkit-tap-highlight-color: transparent;
@@ -145,20 +97,7 @@ input[type=button][disabled], input[type=reset][disabled], input[type=submit][di
     background-color: auto;
     color: auto;
 }
-a:visited {
-    color: #0072C6;
-    text-decoration: none;
-}
-a:hover, a:active {
-    text-decoration: underline;
-}
-a:active {
-    color: #0072C6;
-}
-a, .ms-link:visited {
-    color: #0072C6;
-    text-decoration: none;
-}
+
 #sideNavBox>hr {
     margin: 20px auto;
 }
