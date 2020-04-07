@@ -17,7 +17,7 @@
 http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w866945099.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/72pioLp.png" group-title="RD",Color Vision 9
-https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY-y6_eFRXHsF09GKm9CgF-c)/dm/3/x7gy059/d/live-0.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
