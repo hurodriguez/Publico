@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/SilentButeo2/webgrabplus-siteinipack/master/siteini.pack/Mexico/entutele.com.channels.xml"
+#EXTM3U x-tvg-url="https://jarvistv.net/guia.xml"
 # =======================================================
 # Playlist Name: TvHugo
 # =======================================================
