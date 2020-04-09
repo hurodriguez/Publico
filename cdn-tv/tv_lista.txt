@@ -71,6 +71,9 @@ http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" tvg-name="Euronews" group-title="Noticias",Euronews
 https://euronews-es-p12-cdn.hexaglobe.net/609fa4823b40c4154789876f3042cc6f/5e7835c6/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_240p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Noticias",CNN
+https://www.youtube.com/embed/aEnM0q0iVrw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
 http://rt-esp.secure.footprint.net/1102.m3u8
  
