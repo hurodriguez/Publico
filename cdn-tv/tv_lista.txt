@@ -116,3 +116,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Emisoras",Z101
 https://www.youtube.com/watch?v=NCu9ndW_vQc
+# =====================Serie==================================
+#EXTINF:-1 tvg-logo="#" group-title="Serie",El Hombre en el Castillo Temporada 1, Capítulo 2
+https://feurl.com/v/ewjyqi-1xdp2480
