@@ -75,7 +75,7 @@ https://euronews-es-p12-cdn.hexaglobe.net/609fa4823b40c4154789876f3042cc6f/5e783
 https://www.youtube.com/embed/aEnM0q0iVrw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
-http://rt-esp.secure.footprint.net/1102.m3u8
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png"  group-title="Noticias",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
