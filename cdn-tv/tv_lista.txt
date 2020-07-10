@@ -9,7 +9,7 @@
 #   Copyright © 2019 Sabux Media Inc. All rights reserved.
 #   http://m3ues.com/images/listas-de-canales.png
 #
-# url https://cdn-netcot.netlify.com/cdn-tv/tv_lista.txt
+# url https://fervent-kepler-906b3e.netlify.app/cdn-tv/tv_lista.txt
 # =======================================================
 
 # =====================RD==================================
