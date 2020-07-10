@@ -45,7 +45,7 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsF33wj.png" group-title="RD",Teleuniverso 29
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="#" group-title="RD",CDN
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1594437175~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=d194523a9639665a4fdaab252258ed5f34d8ba341a44e50228833d381d9791c9
 
