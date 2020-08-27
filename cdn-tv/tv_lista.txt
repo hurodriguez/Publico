@@ -19,7 +19,7 @@ https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1659275755.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",CIBER VISIÓN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Ciber Visión Canal 3
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Telecentro 13
