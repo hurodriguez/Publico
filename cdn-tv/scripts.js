@@ -1,8 +1,7 @@
 function Run(x) {
     try {
-      //  Device.CallCSharp(); //<-- executes C# code
-        alert(x);
-    }
+       Device.CallCSharp(x); //<-- executes C# code
+           }
     catch(err) {
         alert(err);
     }
