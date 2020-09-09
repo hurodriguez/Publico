@@ -1,8 +1,9 @@
-(function() {
-    if (window.JSBridge) {
-        return;
+function Run(x) {
+    try {
+      //  Device.CallCSharp(); //<-- executes C# code
+        alert(x);
     }
-
-    window.JSBridge = function () { };
-    JSBridge.addToFavourite = function (state) { }
-})();
+    catch(err) {
+        alert(err);
+    }
+}
