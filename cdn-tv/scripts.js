@@ -1,8 +1,8 @@
-function Run(string msg) {
-    try {
-        Device.CallCSharp(msg); //<-- executes C# code
+(function() {
+    if (window.JSBridge) {
+        return;
     }
-    catch(err) {
-        alert(err);
-    }
-}
+
+    window.JSBridge = function () { };
+    JSBridge.addToFavourite = function (state) { }
+})();
