@@ -1,6 +1,6 @@
-function Run() {
+function Run(string msg) {
     try {
-        Device.CallCSharp(); //<-- executes C# code
+        Device.CallCSharp(msg); //<-- executes C# code
     }
     catch(err) {
         alert(err);
