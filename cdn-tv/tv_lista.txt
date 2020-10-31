@@ -65,6 +65,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="TV",SPACE 
+https://ul.cdn946.net:8443/hls/ahd138j5ou0819g.m3u8?s=BCQtaNTfEqc3Gz_Nl5rqPg&e=1604207129
+
 # =====================PREMIUM==================================
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/Bxkfw8k.png", PARAMOUNT
