@@ -13,8 +13,17 @@
 # =======================================================
 
 # =====================RD==================================
+#EXTINF:-1 tvg-logo="#" group-title="RD",Teleantillas
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1178233042.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD"Canal 4
+http://51.81.106.147:8084/hls/certv.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD"Telemicro 5
+http://51.81.106.157:8080/hls/tmicro.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/72pioLp.png" group-title="RD",Color Vision 9
-https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1659275755.m3u8
+http://51.81.106.147:8084/hls/color.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
@@ -32,29 +41,28 @@ http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv
 http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://urlzs.com/yd7a" group-title="RD",TELEUNION CANAL 16
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w351907011.m3u8
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1473296826.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="RD",Telefuturo 23
-http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="RD",TELEMEDIOS CANAL 25
-http://ss1.domint.net:2108/c25_str/canal25/chunklist_w363921999.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="RD",Telecanal 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+https://ss3.domint.net:3122/c25_str/canal25/chunklist_w864384741.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsF33wj.png" group-title="RD",Teleuniverso 29
-http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
+https://cdn4.hostlagarto.com:8081/teleuniverso/tracks-v1a1/mono.m3u8
  
+#EXTINF:-1 tvg-logo="#" group-title="RD"CDN 37
+http://51.81.106.147:8084/hls/cdn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRA 45" tvg-logo="https://urlzs.com/zXNG" group-title="RD",TRA 45
-http://ss1.domint.net:2310/tra_str/canal45/chunklist_w908202833.m3u8
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w1094274231.m3u8
 
 #EXTINF:-1 tvg-logo="https://urlzs.com/HrXv" group-title="RD",SUPER TV 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57
-https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
 https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
