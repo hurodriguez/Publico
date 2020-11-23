@@ -1,0 +1,9 @@
+[
+    {"nombre":"Bolivia","ID":"BO", "poblacion":"400"},
+    {"nombre":"Colombia","ID":"CO", "poblacion":"400"},
+    {"nombre":"Costa Rica","ID":"CR", "poblacion":"400"},
+    {"nombre":"Cuba","ID":"CU", "poblacion":"400"},
+    {"nombre":"Guatemala","ID":"GU", "poblacion":"400"},
+    {"nombre":"Paraguay","ID":"PA", "poblacion":"400"},
+    {"nombre":"Venezuela","ID":"VE", "poblacion":"400"}
+    ]
