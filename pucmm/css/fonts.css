@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'futura-light';
+	src: url('../fonts/futura-light.eot'),
+             url('../fonts/futura-light.woff') format('woff'), 
+             url('../fonts/futura-light.ttf') format('truetype'), 
+             url('../fonts/futura-light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futura-medium';
+	src: url('../fonts/futura-medium.eot'),
+             url('../fonts/futura-medium.woff') format('woff'), 
+             url('../fonts/futura-medium.ttf') format('truetype'), 
+             url('../fonts/futura-medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futura-condensed-medium';
+	src: url('../fonts/futura-condensed-medium.eot'),
+             url('../fonts/futura-condensed-medium.woff') format('woff'), 
+             url('../fonts/futura-condensed-medium.ttf') format('truetype'), 
+             url('../fonts/futura-condensed-medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futura-condensed-extra-bold';
+	src: url('../fonts/futura-condensed-extra-bold.eot'),
+             url('../fonts/futura-condensed-extra-bold.woff') format('woff'), 
+             url('../fonts/futura-condensed-extra-bold.ttf') format('truetype'), 
+             url('../fonts/futura-condensed-extra-bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
