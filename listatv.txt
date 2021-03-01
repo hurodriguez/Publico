@@ -1,0 +1,82 @@
+#EXTM3U x-tvg-url="https://jarvistv.net/guia.xml"
+# =======================================================
+# Playlist Name: TvHugo
+# =======================================================
+#   ~ This playlist is property of ~
+#
+#   ▂▃▅▇█▓▒░ Sabux Media ▓█▇▅▃▂
+#
+#   Copyright © 2019 Sabux Media Inc. All rights reserved.
+#   http://m3ues.com/images/listas-de-canales.png
+#
+# url https://fervent-kepler-906b3e.netlify.app/cdn-tv/tv_lista.txt
+# =======================================================
+
+# =====================RD==================================
+#EXTINF:-1 tvg-logo="#" group-title="RD",Teleantillas
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1178233042.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD"Canal 4
+http://51.81.106.147:8084/hls/certv.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="RD"Telemicro 5
+http://51.81.106.157:8080/hls/tmicro.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/72pioLp.png" group-title="RD",Color Vision 9
+http://51.81.106.147:8084/hls/color.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Ciber Visión Canal 3
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Telecentro 13
+http://108.175.14.125:1935/tdn/tdn/chunklist_w273192534.m3u8
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/1tU86xM" group-title="RD",Telesistema 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w1435837879.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="RD",Digital 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/yd7a" group-title="RD",Teleunion 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1473296826.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="RD",Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="RD",TELEMEDIOS CANAL 25
+https://ss3.domint.net:3122/c25_str/canal25/chunklist_w864384741.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsF33wj.png" group-title="RD",Teleuniverso 29
+https://cdn4.hostlagarto.com:8081/teleuniverso/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/04/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN 37
+http://51.81.106.147:8084/hls/cdn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRA 45" tvg-logo="https://urlzs.com/zXNG" group-title="RD",TRA 45
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w1094274231.m3u8
+
+#EXTINF:-1 tvg-logo="https://urlzs.com/HrXv" group-title="RD",SUPER TV 55
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png"  group-title="Noticias",Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="#" tvg-name="SPACE" group-title="TV",SPACE 
+http://89.105.194.59:25461/live/2sptMM40/2sptMM40/6.m3u8
+
+# =====================PREMIUM==================================
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/Bxkfw8k.png", PARAMOUNT
+http://paramount.live.flumotion.com/live/playlist.m3u8
