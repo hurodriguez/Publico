@@ -64,11 +64,15 @@ http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57
 http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
 
+# =====================PREMIUM==================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaYm8Rd.jpeg" tvg-name="euronews" group-title="Noticias",Euronews
+https://www.youtube.com/watch?v=JbKgQhFlMdU
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
 https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png"  group-title="Noticias",Deutsche Welle
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+https://www.youtube.com/watch?v=bKpGAHgpYoU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -76,5 +80,4 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" tvg-name="FRANCE 24" group-title="Noticias",FRANCE 24
 https://www.youtube.com/watch?v=Cbwe0tBSJfM
 
-# =====================PREMIUM==================================
 
