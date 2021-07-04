@@ -73,10 +73,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="#" tvg-name="SPACE" group-title="TV",SPACE 
-http://89.105.194.59:25461/live/2sptMM40/2sptMM40/6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" tvg-name="FRANCE 24" group-title="Noticias",FRANCE 24
+https://www.youtube.com/watch?v=Cbwe0tBSJfM
 
 # =====================PREMIUM==================================
 
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/Bxkfw8k.png", PARAMOUNT
-http://paramount.live.flumotion.com/live/playlist.m3u8
