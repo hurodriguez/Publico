@@ -14,7 +14,7 @@
 
 # =====================RD==================================
 #EXTINF:-1 tvg-logo="#" group-title="RD",Teleantillas
-https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1178233042.m3u8
+https://drive.google.com/file/d/17jfNLnqcsUg22zm4XiC_tcdj-3Xn1W-s/view
 
 #EXTINF:-1 tvg-logo="#" group-title="RD"Canal 4
 http://51.81.106.147:8084/hls/certv.m3u8
