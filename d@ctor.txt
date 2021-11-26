@@ -25,3 +25,6 @@ http://fina.dyndns.tv/Series/The%20Good%20Doctor/01x11.mkv
 
 #EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 1 Cap. 12
 http://fina.dyndns.tv/Series/The%20Good%20Doctor/01x12.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 1 Cap. 13
+http://ir2.papionvod.ir/Media/Series/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20S01%20E13%20480p.mkv
