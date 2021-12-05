@@ -1,6 +1,5 @@
 # url https://pucmm.netlify.app/d@ctor.txt
 
-
 # =====================The Good Doctor==================================
 
 #EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 1 Cap. 01
