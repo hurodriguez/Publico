@@ -39,5 +39,56 @@ http://fina.dyndns.tv/Series/The%20Good%20Doctor/01x11.mkv
 #EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 1 Cap. 12
 http://fina.dyndns.tv/Series/The%20Good%20Doctor/01x12.mkv
 
-#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 1 Cap. 13
-http://ir2.papionvod.ir/Media/Series/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20S01%20E13%20480p.mkv
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 1
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x01.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 3
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x02.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 3
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x03.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 4
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x04.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 5
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x05.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 6
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x06.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 7
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x07.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 8
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x08.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 9
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x09.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 10
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x10.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 11
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x11.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 12
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x12.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 13
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x13.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 14
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x14.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 15
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x15.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 16
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x16.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 17
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x17.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 18
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x18.mkv
