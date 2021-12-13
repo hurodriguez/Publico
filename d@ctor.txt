@@ -91,3 +91,65 @@ http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x17.mkv
 
 #EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 2 Cap. 18
 http://fina.dyndns.tv/Series/The%20Good%20Doctor/02x18.mkv
+
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 1
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x01.mkv
+
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 02
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x02.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 03
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x03.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 04
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x04.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 05
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x05.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 06
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x06.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 07
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x07.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 08
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x08.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 09
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x09.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 10
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x10.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 11
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x11.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 12
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x12.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 13
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x13.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 14
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x14.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 15
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x15.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 16
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x16.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 17
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x17.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 18
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x18.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 19
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x19.mkv
+
+#EXTINF:-1 tvg-logo="#" group-title="The Good Doctor",Temporada 3 Cap. 20
+http://fina.dyndns.tv/Series/The%20Good%20Doctor/03x20.mkv
