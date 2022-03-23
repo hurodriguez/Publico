@@ -98,7 +98,7 @@ function form_has_valid_data(name, email)
 
   if (is_not_valid_email_address(email))
   {
-    display_message("Por favor, introduce una dirección de correo electrónico válida.");
+    display_message("Por favor, introduce una dirección de correo válida.");
     return false;
   }
 
@@ -174,7 +174,7 @@ function clear_roaming_settings()
     {
       console.log("clear_roaming_settings - " + JSON.stringify(asyncResult));
 
-      let message = "All settings reset successfully! This add-in won't insert any signatures. You can close this pane now.";
+      let message = "¡Todas las configuraciones se restablecieron con éxito! Este complemento no insertará ninguna firma. Puede cerrar este panel ahora.";
       if (asyncResult.status === Office.AsyncResultStatus.Failed)
       {
         message = "No se pudo restablecer. Inténtalo de nuevo.";
