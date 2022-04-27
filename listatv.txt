@@ -13,6 +13,9 @@
 # ======================================================================================================================
 
 # =====================RD===============================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="RD",Telefuturo 23
 http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 
