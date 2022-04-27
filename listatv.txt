@@ -38,7 +38,7 @@ http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
 
 # =====================PREMIUM=========================================================================================
-#EXTINF:-1 tvg-logo="#" tvg-name="telemundo" group-title="Noticias",telemundo
+#EXTINF:-1 tvg-logo="shorturl.at/eflKL" tvg-name="telemundo"  group-title="Noticias",telemundo
 https://ustvgo.tv/telemundo/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaYm8Rd.jpeg" tvg-name="euronews" group-title="Noticias",Euronews
