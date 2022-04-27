@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://jarvistv.net/guia.xml"
-# =======================================================
+# ======================================================================================================================
 # Playlist Name: TvHugo
-# =======================================================
+# ======================================================================================================================
 #   ~ This playlist is property of ~
 #
 #   ▂▃▅▇█▓▒░ Sabux Media ▓█▇▅▃▂
@@ -10,39 +10,9 @@
 #   http://m3ues.com/images/listas-de-canales.png
 #
 # url https://pucmm.netlify.app/listatv.txt
-# =======================================================
+# ======================================================================================================================
 
-# =====================RD==================================
-#EXTINF:-1 tvg-logo="#" group-title="RD",Teleantillas2
-http://fina.dyndns.tv/Series/The%20Good%20Doctor/01x06.mkv
-
-#EXTINF:-1 tvg-logo="#" group-title="RD"Canal 4
-http://51.81.106.147:8084/hls/certv.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="RD"Telemicro 5
-http://51.81.106.157:8080/hls/tmicro.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/72pioLp.png" group-title="RD",Color Vision 9
-http://51.81.106.147:8084/hls/color.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Ciber Visión Canal 3
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="RD",Telecentro 13
-http://108.175.14.125:1935/tdn/tdn/chunklist_w273192534.m3u8
-
-#EXTINF:-1 tvg-logo="https://cutt.ly/1tU86xM" group-title="RD",Telesistema 11
-https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w1435837879.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="RD",Digital 15
-http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://urlzs.com/yd7a" group-title="RD",Teleunion 16
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1473296826.m3u8
-
+# =====================RD===============================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="RD",Telefuturo 23
 http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 
@@ -64,7 +34,7 @@ http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57
 http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
 
-# =====================PREMIUM==================================
+# =====================PREMIUM=========================================================================================
 #EXTINF:-1 tvg-logo="#" tvg-name="telemundo" group-title="Noticias",telemundo
 https://ustvgo.tv/telemundo/
 
