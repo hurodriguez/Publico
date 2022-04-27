@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=bKpGAHgpYoU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" tvg-name="FRANCE 24" group-title="Noticias",FRANCE 24
+#EXTINF:-1 tvg-logo="shorturl.at/drwS2" tvg-name="FRANCE 24" group-title="Noticias",FRANCE 24
 https://www.youtube.com/watch?v=Cbwe0tBSJfM
 
 
