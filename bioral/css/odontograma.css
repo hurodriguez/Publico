@@ -60,8 +60,33 @@ input[value="Restauracion5"] {
     height: 100%;
     width: 30px;
 }
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
+input[value="e"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/e.png);
+    height: 100%;
+    width: 30px;
+}
+input[value="N"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/N.png);
+    height: 100%;
+    width: 30px;
+}
+input[value="PL"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/PL.png);
+    height: 100%;
+    width: 30px;
+}
+input[value="P"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/P.png);
+    height: 100%;
+    width: 30px;
+}
+input[value="z"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/z.png);
+    height: 100%;
+    width: 30px;
+}
+input[value="d"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/d.png);
     height: 100%;
     width: 30px;
 }
@@ -70,33 +95,8 @@ input[value="Sano"] {
     height: 100%;
     width: 30px;
 }
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
-    height: 100%;
-    width: 30px;
-}
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
-    height: 100%;
-    width: 30px;
-}
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
-    height: 100%;
-    width: 30px;
-}
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
-    height: 100%;
-    width: 30px;
-}
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
-    height: 100%;
-    width: 30px;
-}
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
+input[value="g"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/g.png);
     height: 100%;
     width: 30px;
 }
