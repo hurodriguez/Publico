@@ -3,3 +3,7 @@
   -webkit-columns: 4;
   -moz-columns: 4;
 }
+
+input[value="Sano"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
+  }
