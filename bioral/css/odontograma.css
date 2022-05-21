@@ -60,42 +60,42 @@ input[value="Restauracion5"] {
     height: 100%;
     width: 30px;
 }
-input[value="e"] {
+input[value="Extraccion"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/e.png);
     height: 100%;
     width: 30px;
 }
-input[value="N"] {
+input[value="Endodoncia"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/N.png);
     height: 100%;
     width: 30px;
 }
-input[value="PL"] {
+input[value="Pulpalesion"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/PL.png);
     height: 100%;
     width: 30px;
 }
-input[value="P"] {
+input[value="ParaExtraccion"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/P.png);
     height: 100%;
     width: 30px;
 }
-input[value="z"] {
+input[value="Sarro"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/z.png);
     height: 100%;
     width: 30px;
 }
-input[value="d"] {
+input[value="Desgaste"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/d.png);
     height: 100%;
     width: 30px;
 }
-input[value="Sano"] {
-    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
+input[value="Protesis"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/g.png);
     height: 100%;
     width: 30px;
 }
-input[value="g"] {
+input[value="Protesis"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/g.png);
     height: 100%;
     width: 30px;
