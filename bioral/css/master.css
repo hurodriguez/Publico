@@ -3,3 +3,9 @@
   -webkit-columns: 2;
   -moz-columns: 2;
 }
+
+#id_Habitos{
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+}
