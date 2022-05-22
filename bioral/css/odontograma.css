@@ -4,7 +4,7 @@
   -moz-columns: 4;
 }
 
-input[value="Sano"] {
+input[value="Sano"]:after {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
     height: 100%;
     width: 30px;
