@@ -3,12 +3,20 @@
   -webkit-columns: 4;
   -moz-columns: 4;
 }
-
+/*
 input[value="Sano"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
     height: 100%;
     width: 30px;
 }
+*/
+
+label[for="id_t_11_0"] {
+    content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
+    height: 100%;
+    width: 30px;
+}
+
 
 input[value="Caries1"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/c1.png);
