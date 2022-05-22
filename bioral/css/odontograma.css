@@ -4,6 +4,10 @@
   -moz-columns: 4;
 }
 
+input[type="checkbox"] {
+    accent-color: #ae9d9745;
+}
+
 input[value="Sano"] {
     content:url(https://netcot-cdn.netlify.app//bioral/odontogram_img/sano.png);
     height: 100%;
