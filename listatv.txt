@@ -37,23 +37,14 @@ http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57
 http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
 
-# =====================PREMIUM=========================================================================================
-#EXTINF:-1 tvg-logo="shorturl.at/eflKL" tvg-name="telemundo"  group-title="Noticias",telemundo
-https://ustvgo.tv/telemundo/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaYm8Rd.jpeg" tvg-name="euronews" group-title="Noticias",Euronews
-https://www.youtube.com/watch?v=JbKgQhFlMdU
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-name="RT" group-title="Noticias",RT
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png"  group-title="Noticias",Deutsche Welle
-https://www.youtube.com/watch?v=bKpGAHgpYoU
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="shorturl.at/drwS2" tvg-name="FRANCE 24" group-title="Noticias",FRANCE 24
-https://www.youtube.com/watch?v=Cbwe0tBSJfM
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 
