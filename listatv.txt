@@ -9,7 +9,7 @@
 #   Copyright © 2019 Sabux Media Inc. All rights reserved.
 #   http://m3ues.com/images/listas-de-canales.png
 #
-# url https://pucmm.netlify.app/listatv.txt
+# url https://netcot-cdn.netlify.app/listatv.txt
 # ======================================================================================================================
 
 # =====================RD===============================================================================================
