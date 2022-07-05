@@ -26,3 +26,6 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 EXTINF:1, AFV Family En Español  
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1, Euronews Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
