@@ -3,16 +3,16 @@
 # url https://netcot-cdn.netlify.app/listatv.txt
 # ======================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="RD",Microvision 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="TV",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" group-title="Noticias",DW Español
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" group-title="TV",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TV",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="TV",CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="TV",Lima Live Tv
