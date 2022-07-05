@@ -2,30 +2,29 @@
 #   ▂▃▅▇█▓▒░ Sabux Media ▓█▇▅▃▂
 # url https://netcot-cdn.netlify.app/listatv.txt
 # ======================================================================================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish",DW Español
+#EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español
+#EXTINF:-1, RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN
+#EXTINF:-1, CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png",Lima Live Tv
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1, Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png",Tropical TV
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png",RNN
+#EXTINF:-1, RNN
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
-EXTINF:1, AFV Family En Español  
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1, Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1, Euronews Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Lima Live Tv
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1, Tropical TV
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
+EXTINF:1, AFV Family
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
