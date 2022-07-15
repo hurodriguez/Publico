@@ -13,9 +13,8 @@ xhr.onreadystatechange = function () {
       console.log(xhr.responseText);
    }};
 
-
-let myPet = 'bien perro';
-var data = ('{"foto":"' + myPet + '"'); 
+const yfoto = document.getElementsByClassName('preview_image')[0];
+var data = ('{"foto":"' + yfoto.src + '"'); 
  
 
 xhr.send(data);
