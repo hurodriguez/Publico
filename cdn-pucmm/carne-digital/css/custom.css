@@ -1,6 +1,7 @@
 /*header*/
 .col-md-12,.container,.container-fluid{width:100%;padding-right:15px;padding-left:15px}*,::after,::before{box-sizing:border-box}img{vertical-align:middle;border-style:none}.img-fluid{max-width:100%;height:auto}.container,.container-fluid{margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}.col-md-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.col-md-12{position:relative}@media print{*,::after,::before{text-shadow:none!important;box-shadow:none!important}img{page-break-inside:avoid}.container{min-width:992px!important}}/*! CSS Used from: Embedded */.header{background-color:#0072c6;padding-top:5px;padding-bottom:5px}
 html,body {padding: 0;margin: 0;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background: #faf9f8;}
+body{margin: 0px!importan;}
 .canvas_container {margin: 0 auto;overflow: hidden;display: flex;align-items: center;justify-content: center;background-repeat: no-repeat;background-position: center;background-size: 100%;}
 .preview_image {width: auto;height: 75%;box-shadow: 0px 1px 20px rgba(0, 0, 0, 0.3);}
 .controls {position: absolute;bottom: 0;width: 100%;padding: 10px 0 10px;background-color: rgb(19 30 77 / 40%);display: flex;justify-content: space-around;}
