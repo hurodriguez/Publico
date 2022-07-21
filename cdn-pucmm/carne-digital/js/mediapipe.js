@@ -54,7 +54,7 @@ retakeEl.addEventListener('click', () => {
 	startCamera();
 	document.querySelectorAll('.step-download').forEach(hide);
 	document.querySelectorAll('.step-capture').forEach(show);
-	canvasContainer.style.backgroundImage = 'url(https://netcot-cdn.netlify.app/cdn-pucmm/carne-digital/img/carneMascara.png)';
+	canvasContainer.style.backgroundImage = 'url(https://cepucmmedu.sharepoint.com/innovacion/SiteAssets/img-carne/carneMascara.png)';
 	downloadEl.removeEventListener('click', downloadFn);
 });
 
@@ -173,7 +173,7 @@ function startCamera() {
 				videoWidth = video.videoWidth;
 				videoHeight = video.videoHeight;
 				videoRatio = videoWidth / videoHeight;
-				canvasContainer.style.backgroundImage = 'url(https://netcot-cdn.netlify.app/cdn-pucmm/carne-digital/img/carneMascara.png)';
+				canvasContainer.style.backgroundImage = 'url(https://cepucmmedu.sharepoint.com/innovacion/SiteAssets/img-carne/carneMascara.png)';
 				resizeOutput();
 				meta_info.textContent = `${mode}, ${video.videoWidth}, ${video.videoHeight}`;
 			}
