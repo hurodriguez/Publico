@@ -14,7 +14,7 @@ html,body {padding: 0;margin: 0;font-family: 'Segoe UI', Tahoma, Geneva, Verdana
 .download {background-image: url(https://www.gstatic.com/images/icons/material/system_gm/2x/file_download_black_24dp.png);}
 .enviar{background-image: url(https://netcot-cdn.netlify.app/cdn-pucmm/carne-digital/img/file_subir.png);}
 .step-capture,.step-download {display: none;}
-.class-cara{display: none;}
+.class-cara{display: none;margin-bottom: 2px!important;}
 .alert-success{display: none;}
 .enviar{display: none;}
 .header{background-color: #0072C6;padding-top: 5px;padding-bottom: 5px;}
