@@ -15,5 +15,14 @@ html,body {padding: 0;margin: 0;font-family: 'Segoe UI', Tahoma, Geneva, Verdana
 .enviar{background-image: url(https://netcot-cdn.netlify.app/cdn-pucmm/carne-digital/img/file_subir.png);}
 .step-capture,.step-download {display: none;}
 .class-cara{display: none;}
+.alert-success{display: none;}
 .enviar{display: none;}
 .header{background-color: #0072C6;padding-top: 5px;padding-bottom: 5px;}
+/*Alerta de enviada*/
+*,::after,::before{box-sizing:border-box;}
+.alert{position:relative;padding:.75rem 1.25rem;margin-bottom:1rem;border:1px solid transparent;border-radius:.25rem;}
+.alert-success{color:#155724;background-color:#d4edda;border-color:#c3e6cb;}
+@media print{
+*,::after,::before{text-shadow:none!important;box-shadow:none!important;}
+}
+.bd-example>.alert+.alert{margin-top:1rem;}

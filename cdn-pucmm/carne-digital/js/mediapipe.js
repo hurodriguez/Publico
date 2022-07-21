@@ -19,8 +19,7 @@
     const controlsElement = document.getElementsByClassName('control-panel')[0];
     const canvasCtxo = canvasElemento.getContext('2d');
     const fpsControl = new controls.FPS();
-//------------------------------------------------------------------------------------------------------
-    
+//------------------------------------------------------------------------------------------------------  
 		const facingMode = ['user', 'environment'];
 		let camera, video, mirrored = false;
 		let facingModeIndex = 0;
