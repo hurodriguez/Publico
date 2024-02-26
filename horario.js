@@ -16,7 +16,7 @@
             "Clase": 1392,
             "Cod_Asignatura": "    LET101",
             "Descripcion_Clase": "Español I",
-            "Horario": "10-12, L, Mi",
+            "Horario": "12-5, L, Mi",
             "Aula/Edificio": "SDB1609",
             "Campus": "CSTA"
         },
