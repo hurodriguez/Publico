@@ -84,7 +84,7 @@
             "Descripcion_Clase": "Redacción Académica y Profesio",
             "HORARIO": [
                 {
-                    "DIA": "L  Mi",
+                    "DIA": "L  MA",
                     "HORA": "08-10",
                     "ID_INSTALACION": "SDB1107",
                     "AULA": "SD-B1-107",
