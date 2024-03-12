@@ -106,7 +106,7 @@
             "Descripcion_Clase": "Español I",
             "HORARIO": [
                 {
-                    "DIA": "L  Mi",
+                    "DIA": "MA",
                     "HORA": "12-14",
                     "ID_INSTALACION": "SDB104A",
                     "AULA": "SD-B1-04A",
