@@ -85,7 +85,7 @@
             "HORARIO": [
                 {
                     "DIA": "L  MA",
-                    "HORA": "08-10",
+                    "HORA": "10:50-10",
                     "ID_INSTALACION": "SDB1107",
                     "AULA": "SD-B1-107",
                     "DESCRIPCION": "B1-107",
