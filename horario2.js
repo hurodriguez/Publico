@@ -41,7 +41,7 @@
             "HORARIO": [
                 {
                     "DIA": "L  Mi",
-                    "HORA": "10:55-12",
+                    "HORA": "11:50-12",
                     "ID_INSTALACION": "SDB1306B",
                     "AULA": "SD-B1-306B",
                     "DESCRIPCION": "B1-306-B",
