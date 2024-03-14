@@ -18,8 +18,8 @@
             "Descripcion_Clase": "Procesos de la Producción Escrita",
             "HORARIO": [
                 {
-                    "DIA": "L",
-                    "HORA": "09-12",
+                    "DIA": "J",
+                    "HORA": "11-12",
                     "ID_INSTALACION": "SDB1303",
                     "AULA": "SD-B1-303",
                     "DESCRIPCION": "B1-303",
@@ -40,7 +40,7 @@
             "Descripcion_Clase": "Español II",
             "HORARIO": [
                 {
-                    "DIA": "L  Mi",
+                    "DIA": "J  Mi",
                     "HORA": "11:50-12",
                     "ID_INSTALACION": "SDB1306B",
                     "AULA": "SD-B1-306B",
