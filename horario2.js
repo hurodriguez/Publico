@@ -18,7 +18,7 @@
             "Descripcion_Clase": "Procesos de la Producción Escrita",
             "HORARIO": [
                 {
-                    "DIA": "J",
+                    "DIA": "L",
                     "HORA": "11-12",
                     "ID_INSTALACION": "SDB1303",
                     "AULA": "SD-B1-303",
@@ -62,7 +62,7 @@
             "Descripcion_Clase": "Historia de la Lengua Española",
             "HORARIO": [
                 {
-                    "DIA": "L",
+                    "DIA": "V",
                     "HORA": "14-17",
                     "ID_INSTALACION": "SDB1108",
                     "AULA": "SD-B1-108",
