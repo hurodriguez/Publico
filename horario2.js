@@ -14,7 +14,7 @@
             "Facultad_docencia": "FCH",
             "Escuela_Docencia": "Escuela de Lenguas",
             "Clase": 2471,
-            "Cod_Asignatura": "    LET125",
+            "Cod_Asignatura": "LET125",
             "Descripcion_Clase": "Procesos de la Producción Escrita",
             "HORARIO": [
                 {
