@@ -40,7 +40,7 @@
             "Descripcion_Clase": "Español II",
             "HORARIO": [
                 {
-                    "DIA": "J  Mi",
+                    "DIA": "M  Mi",
                     "HORA": "11:50-12",
                     "ID_INSTALACION": "SDB1306B",
                     "AULA": "SD-B1-306B",
@@ -84,7 +84,7 @@
             "Descripcion_Clase": "Redacción Académica y Profesio",
             "HORARIO": [
                 {
-                    "DIA": "L  MA",
+                    "DIA": "J",
                     "HORA": "10:50-10",
                     "ID_INSTALACION": "SDB1107",
                     "AULA": "SD-B1-107",
