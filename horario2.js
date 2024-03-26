@@ -3,7 +3,7 @@
     "Nombre": "IVELISSE DÍAZ S.",
     "Cedula": "00107510455",
     "Email_personal": "",
-    "Email_institucional": "dirprueba@pucmm.edu.do",
+    "Email_institucional": "ra.jimenez",
     "Telefono": "",
     "Celular": "809/890-1493",
     "Estado": "ACTIVO",
