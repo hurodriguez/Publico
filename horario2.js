@@ -24,8 +24,8 @@
                     "AULA": "SD-B1-303",
                     "DESCRIPCION": "B1-303",
                     "ID_EDIFICIO": "SD-B1",
-                    "DESCR_EDIFICIO": "Aulas B1",
-                    "CAMPUS": "CSTA",
+                    "DESCR_EDIFICIO": "Aulas A4",
+                    "CAMPUS": "CSTI",
                     "LATITUD": 0,
                     "LONGITUD": 0
                 }
