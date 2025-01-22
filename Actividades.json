@@ -1,0 +1,1262 @@
+[
+    {
+        "ID": 28,
+        "Title": "PUCMM DAY PASS",
+        "Description": "Dar a conocer al publico de Santo Domingo y provincias cercanas la oferta de carreras y servicios que tenemos en nuestra Universidad a traves de talleres y actividades practicas de cada una de las carreras.",
+        "Campus": "CSD",
+        "cantidad": 1000,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|felixperez@pucmm.edu.do",
+            "DisplayName": "Félix Amaury Pérez Caba",
+            "Email": "felixperez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=felixperez@pucmm.edu.do",
+            "Department": "Vicerrectoría Administración y Finanzas",
+            "JobTitle": "Vicerrector de Administración y Finanzas"
+        },
+        "Expositores": null,
+        "Categoria": "Feria",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-06T19:00:00Z",
+                "EndDateAndTime": "2025-02-06T23:00:00Z",
+                "Horas": "04:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 29,
+        "Title": "PUCMM Day Pass CSD",
+        "Description": "El objetivo de esta actividad es acoger a los estudiantes pre-universitarios de Santo Domingo y zonas cercanas para dar a conocer nuestra oferta académica a través de talleres y actividades prácticas realizadas por cada escuela. ",
+        "Campus": "CSD",
+        "cantidad": 1000,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Feria",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-04T19:00:00Z",
+                "EndDateAndTime": "2025-02-04T23:00:00Z",
+                "Horas": "04:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-02-05T19:00:00Z",
+                "EndDateAndTime": "2025-02-05T23:00:00Z",
+                "Horas": "04:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-02-06T19:00:00Z",
+                "EndDateAndTime": "2025-02-06T23:00:00Z",
+                "Horas": "04:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 31,
+        "Title": "Open House PUCMM",
+        "Description": "El objetivo de esta actividad es acoger a los estudiantes pre-universitarios de Santiago y toda la Zona Norte para dar a conocer la oferta académica a través de charlas informativas y actividades prácticas realizadas por cada escuela.",
+        "Campus": "CSTI",
+        "cantidad": 4000,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Feria",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-20T12:00:00Z",
+                "EndDateAndTime": "2025-02-20T16:00:00Z",
+                "Horas": "04:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-02-21T12:00:00Z",
+                "EndDateAndTime": "2025-02-21T16:00:00Z",
+                "Horas": "04:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 32,
+        "Title": "PUCMM Day Pass CSTI",
+        "Description": "En la versión de Santiago, estaremos recibiendo a estudiantes pre-universitarios en las aulas donde podrán vivir la experiencia de \"ser universitario por un día\". Ellos asisitirán a una clase en desarrollo de su carrera de interés para conocer un poco sobre la metodología, profesores y actividade...",
+        "Campus": "CSTI",
+        "cantidad": 1000,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Taller",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-03-24T12:00:00Z",
+                "EndDateAndTime": "2025-03-24T22:00:00Z",
+                "Horas": "10:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-03-25T12:00:00Z",
+                "EndDateAndTime": "2025-03-25T22:00:00Z",
+                "Horas": "10:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-03-26T12:00:00Z",
+                "EndDateAndTime": "2025-03-26T22:00:00Z",
+                "Horas": "10:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-03-27T12:00:00Z",
+                "EndDateAndTime": "2025-03-27T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 33,
+        "Title": "Charla Virtual para Padres Pre-Universitarios",
+        "Description": "El objetivo de la charla es tener un encuentro virtual con los padres pre-univeristarios como acompañamiento en este proceso que ellos también atraviesan con sus hijos. En esta charla se tratará un tema de interés donde también se abarcan los beneficios, servicios y asistencia económica que tenem...",
+        "Campus": "CSTI",
+        "cantidad": 150,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Charla",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-12T23:00:00Z",
+                "EndDateAndTime": "2025-02-13T00:00:00Z",
+                "Horas": "01:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 35,
+        "Title": "Charla Virtual Admisiones ",
+        "Description": "Esta charla tiene la finalidad de acoger de manera virtual en ambos campus a los estudiantes pre-universitarios para ofrecer información de todo lo relacionado a Admisiones junto a los representantes de lugar.",
+        "Campus": "CSTI",
+        "cantidad": 200,
+        "Publico": "Público Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Conversatorio",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-24T23:00:00Z",
+                "EndDateAndTime": "2025-02-25T00:00:00Z",
+                "Horas": "01:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 36,
+        "Title": "Charla Virtual Movilidad Estudiantil",
+        "Description": "Esta charla tiene la finalidad de acoger de manera virtual en ambos campus a los estudiantes pre-universitarios para ofrecer información de todo lo relacionado a Movilidad Estudiantil junto a los representantes de lugar.",
+        "Campus": "CSTI",
+        "cantidad": 200,
+        "Publico": "Público Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Conversatorio",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-25T23:00:00Z",
+                "EndDateAndTime": "2025-02-26T00:00:00Z",
+                "Horas": "01:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 37,
+        "Title": "Charla Virtual Asistencia Económica",
+        "Description": "Esta charla tiene la finalidad de acoger de manera virtual en ambos campus a los estudiantes pre-universitarios para ofrecer información de todo lo relacionado a Asistencia Económica junto FONDESA Y FUNDAPEC.",
+        "Campus": "CSTI",
+        "cantidad": 200,
+        "Publico": "Público Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|cgmartinez@pucmm.edu.do",
+            "DisplayName": "Carol Gabriela Martinez Genao",
+            "Email": "cgmartinez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=cgmartinez@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Encargada de promoción"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|wtejada@pucmm.edu.do",
+            "DisplayName": "Wendy Cecilia Tejada Ruiz",
+            "Email": "wtejada@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=wtejada@pucmm.edu.do",
+            "Department": "Dirección de Mercadeo Institucional",
+            "JobTitle": "Directora"
+        },
+        "Expositores": null,
+        "Categoria": "Conversatorio",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-26T23:00:00Z",
+                "EndDateAndTime": "2025-02-27T00:00:00Z",
+                "Horas": "01:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 43,
+        "Title": "Mujeres en Datos",
+        "Description": " ¿Quieres conocer el rol y desarrollo que han tenido las mujeres en ciencia de datos?\n Te invitamos a este evento organizado por @BigDataDO, donde mujeres prominentes en diferentes áreas relacionadas a la Analítica de\n Datos, Ciencia de Datos, Deep Learning, Machine Learning, Inteligencia Artific...",
+        "Campus": "CSD",
+        "cantidad": 250,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Conferencia",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-04-05T18:00:00Z",
+                "EndDateAndTime": "2025-04-05T22:00:00Z",
+                "Horas": "04:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 44,
+        "Title": "ICT Competition de Huawei 2025",
+        "Description": "Torneo Global de Huawei, donde se busca demostrar tus habilidades, aprender de los mejores y competir en un evento de talla internacional . El pasado año quedamos en el tercer lugar a nivel regional.\n",
+        "Campus": "CSD",
+        "cantidad": null,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Mixtos",
+        "Categoria": "Torneo",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-01-18T12:00:00Z",
+                "EndDateAndTime": "2025-01-19T02:00:00Z",
+                "Horas": "14:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 45,
+        "Title": "Torneo Interuniversitario de Redes 2025",
+        "Description": "Se trata de una competencia de conocimientos de redes de datos entre estudiantes de universidades dominicanas, organizada por nuestra escuela. Los estudiantes participan en equipos de 2 personas resolviendo retos de redes en 2 rondas (eliminatoria y final). Los equipos ganadores serán reconocidos...",
+        "Campus": "CSD",
+        "cantidad": 100,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Torneo",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-11-15T12:00:00Z",
+                "EndDateAndTime": "2025-11-15T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 46,
+        "Title": "CONCURSO INTERNACIONAL UNIVERSITARIO DE PROGRAMACIÓN (ICPC)",
+        "Description": "El Concurso Internacional Universitario de Programación (ICPC, por sus siglas en inglés) es una competición anual de programación de computadoras entre equipos, cada uno de tres estudiantes-concursantes y un entrenador, que representan a instituciones de la Educación Superior . Quedamos en el pri...",
+        "Campus": "CSD",
+        "cantidad": 300,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Mixtos",
+        "Categoria": "Comptencia",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-04-12T12:00:00Z",
+                "EndDateAndTime": "2025-04-12T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 47,
+        "Title": "DataMeetup 2025",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 100,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Conferencia",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-11-08T12:00:00Z",
+                "EndDateAndTime": "2025-11-08T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 48,
+        "Title": "Big Data Day 2025",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 100,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Charla",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-09-13T12:00:00Z",
+                "EndDateAndTime": "2025-09-13T22:00:00Z",
+                "Horas": "10:00:00"
+            },
+            {
+                "StartDateAndTime": "2025-09-13T12:00:00Z",
+                "EndDateAndTime": "2025-09-13T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 49,
+        "Title": "Internet Society (ISO)",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 50,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Congreso",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-07-12T12:00:00Z",
+                "EndDateAndTime": "2025-07-12T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 50,
+        "Title": "Microsoft",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 100,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Mixtos",
+        "Categoria": "Taller",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-07-05T12:00:00Z",
+                "EndDateAndTime": "2025-07-05T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 51,
+        "Title": "PMI-RD Project Management Institute – Capítulo República Dominicana:",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 50,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Mixtos",
+        "Categoria": "Seminario",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-06-28T12:00:00Z",
+                "EndDateAndTime": "2025-06-28T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 52,
+        "Title": "Girls In Tech DR:",
+        "Description": "",
+        "Campus": "CSD",
+        "cantidad": 150,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jesusmejias@pucmm.edu.do",
+            "DisplayName": "Jesús Nicolas Mejías Ortiz",
+            "Email": "jesusmejias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jesusmejias@pucmm.edu.do",
+            "Department": "Escuela en Ingeniería en Computación y Telecomunicaciones",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Mixtos",
+        "Categoria": "Torneo",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-10-04T12:00:00Z",
+                "EndDateAndTime": "2025-10-04T22:00:00Z",
+                "Horas": "10:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 53,
+        "Title": "IV Congreso de Educación Matematica de America Central y el Caribe CEMACY 2025",
+        "Description": "Entre el 2 y 7 de noviembre del 2025 se llevará a cabo el IV Congreso de Educación Matemática de América Central y El Caribe (IV CEMACYC), organizado por la Red de Educación Matemática de América Central y El Caribe (REDUMATE). Vea la Descripción en este sitio.\n\nsobre el CEMACYC\n\nLos primeros tre...",
+        "Campus": "CSD",
+        "cantidad": 650,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|hcastillo@pucmm.edu.do",
+            "DisplayName": "Hamlet Humberto Castillo Alvino",
+            "Email": "hcastillo@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=hcastillo@pucmm.edu.do",
+            "Department": "Escuela de Ciencias Naturales y Exactas",
+            "JobTitle": "Director"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|abarranco@pucmm.edu.do",
+            "DisplayName": "Ana María Barranco López",
+            "Email": "abarranco@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=abarranco@pucmm.edu.do",
+            "Department": "Facultad de Ciencias e Ingeniería",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Internacionales",
+        "Categoria": "Congreso",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-11-02T13:00:00Z",
+                "EndDateAndTime": "2025-11-02T22:00:00Z",
+                "Horas": "09:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 54,
+        "Title": "Duarte, eternamente joven con Juan Gilberto Núñez",
+        "Description": "Se trata de una conferencia sobre la vida de Duarte, enfocada en sus ideas de juventud. El objetivo es que nuestros jóvenes empaticen con el patricios desde el vínculo generacional. ",
+        "Campus": "CSD",
+        "cantidad": 60,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|ibethguzman@pucmm.edu.do",
+            "DisplayName": "Ibeth Altagracia Guzmán Crespo",
+            "Email": "ibethguzman@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=ibethguzman@pucmm.edu.do",
+            "Department": "Facultad de Ciencias Sociales, Humanidades y Artes",
+            "JobTitle": "Directora, Escuela de Lenguas"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|marianorodriguez@pucmm.edu.do",
+            "DisplayName": "Mariano Américo Rodríguez Rijo",
+            "Email": "marianorodriguez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=marianorodriguez@pucmm.edu.do",
+            "Department": "Facultad de Ciencias Sociales, Humanidades y Artes",
+            "JobTitle": "Decano"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Conferencia",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-01-27T12:00:00Z",
+                "EndDateAndTime": "2025-01-27T14:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 55,
+        "Title": "Segunda Jornada e Teologia",
+        "Description": "Ayudar a la formación permanente de nuestro clero y agentes de pastoral, para un mejor trabajo pastoral y en orden a la evangelización de nuestro pueblo.",
+        "Campus": "CSTI",
+        "cantidad": 200,
+        "Publico": "Público Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|elgonzalez@pucmm.edu.do",
+            "DisplayName": "Elisabel Gonzalez Durán",
+            "Email": "elgonzalez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=elgonzalez@pucmm.edu.do",
+            "Department": "Escuela de Teología",
+            "JobTitle": "Secretaria"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|warias@pucmm.edu.do",
+            "DisplayName": "William Antonio Arias Arias",
+            "Email": "warias@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=warias@pucmm.edu.do",
+            "Department": "Escuela de Teología",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Internacionales",
+        "Categoria": null,
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-18T13:00:00Z",
+                "EndDateAndTime": "2025-02-18T17:30:00Z",
+                "Horas": "04:30:00"
+            }
+        ]
+    },
+    {
+        "ID": 60,
+        "Title": "Congreso anual de la carrera en Hospitalidad y Turismo",
+        "Description": "Este congreso es organizado por los estudiantes de la carrera en Hospitalidad y Turismo, de la asignatura Gestión de la Industria de Eventos y Reuniones, con la guía de su docente, con el objetivo de tratar temas de actualidad y de relevancia para el sector turístico. ",
+        "Campus": "CSTI",
+        "cantidad": 200,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|knrodriguez@pucmm.edu.do",
+            "DisplayName": "Kenia Natividad Rodríguez Almánzar",
+            "Email": "knrodriguez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=knrodriguez@pucmm.edu.do",
+            "Department": "Escuela de Turismo y Gastronomía",
+            "JobTitle": "Directora"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jpichardo@pucmm.edu.do",
+            "DisplayName": "Julissa Altagracia Pichardo Rosa",
+            "Email": "jpichardo@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jpichardo@pucmm.edu.do",
+            "Department": "Facultad de Ciencias Económicas y Administrativas",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Congreso",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-03-13T12:00:00Z",
+                "EndDateAndTime": "2025-03-13T17:00:00Z",
+                "Horas": "05:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 61,
+        "Title": "Cena en honor a los padres de los estudiantes de término",
+        "Description": "Esta actividad se realiza anualmente en honor a los padres de los estudiantes de término del área de Gastronomía de la Escuela de Turismo y Gastronomía. Se hace en el marco de la asignatura Banquetes y Catering",
+        "Campus": "CSTI",
+        "cantidad": 100,
+        "Publico": "Público Interno y Externo",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|knrodriguez@pucmm.edu.do",
+            "DisplayName": "Kenia Natividad Rodríguez Almánzar",
+            "Email": "knrodriguez@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=knrodriguez@pucmm.edu.do",
+            "Department": "Escuela de Turismo y Gastronomía",
+            "JobTitle": "Directora"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|jpichardo@pucmm.edu.do",
+            "DisplayName": "Julissa Altagracia Pichardo Rosa",
+            "Email": "jpichardo@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=jpichardo@pucmm.edu.do",
+            "Department": "Facultad de Ciencias Económicas y Administrativas",
+            "JobTitle": "Decana"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Cena",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-04-10T23:00:00Z",
+                "EndDateAndTime": "2025-04-11T00:00:00Z",
+                "Horas": "01:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 62,
+        "Title": "Competencia, monopolios y derechos del consumidor: retos y oportunidades",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 65,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Conversatorio",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-01-29T22:00:00Z",
+                "EndDateAndTime": "2025-01-30T00:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 63,
+        "Title": "Panel sobre la ley de reestructuración mercantil, a cargo de la magistrada Penélope Casado y el Lic. Raymundo Haché.",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 75,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Panel",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-01-30T21:00:00Z",
+                "EndDateAndTime": "2025-01-30T23:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 64,
+        "Title": "Puesta en circulación del libro:  En la mente de una abogada joven.",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 65,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Puesta en circulación libro",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-05T22:00:00Z",
+                "EndDateAndTime": "2025-02-06T00:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 65,
+        "Title": "Taller de redacción",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 65,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Taller",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-08T12:00:00Z",
+                "EndDateAndTime": "2025-02-08T17:00:00Z",
+                "Horas": "05:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 66,
+        "Title": "Conferencia sobre el acuerdo de delimitación marítima entre República Dominicana y Países Bajos",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 65,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": null,
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-10T21:00:00Z",
+                "EndDateAndTime": "2025-02-10T23:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 67,
+        "Title": "Actividad con el Defensor del Pueblo",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 170,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": null,
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-02-12T22:30:00Z",
+                "EndDateAndTime": "2025-02-13T00:30:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 68,
+        "Title": "Panel sobre la resolución del Poder Judicial sobre la protección de datos",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 170,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Panel",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-09-23T21:00:00Z",
+                "EndDateAndTime": "2025-09-23T23:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 69,
+        "Title": "Inauguración Aula Estrado Escuela de Derecho",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 30,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Inauguración",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-10-03T12:00:00Z",
+                "EndDateAndTime": "2025-10-03T12:00:00Z",
+                "Horas": "00:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 70,
+        "Title": "Taller argumentación jurídica y análisis de sentencias",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 100,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Taller",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-09-23T21:00:00Z",
+                "EndDateAndTime": "2025-09-23T23:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 71,
+        "Title": "Celabración Día de la Constitución",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 100,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Celebración",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-11-04T22:00:00Z",
+                "EndDateAndTime": "2025-11-05T00:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 72,
+        "Title": "Foro sobre la reforma del Código de Trabajo.  ",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 60,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Foro",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-04-09T22:00:00Z",
+                "EndDateAndTime": "2025-04-10T00:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    },
+    {
+        "ID": 73,
+        "Title": "Conversatorio vigencia del Código Procesal Penal a la luz de la sentencia TC/0766-24 el Tribunal Constitucional",
+        "Description": "",
+        "Campus": "CSTI",
+        "cantidad": 100,
+        "Publico": "Comunidad Universitaria",
+        "Author": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|tserrata@pucmm.edu.do",
+            "DisplayName": "Tanya Elizabeth Serrata Bisonó",
+            "Email": "tserrata@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=tserrata@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Asistente"
+        },
+        "Superior": {
+            "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+            "Claims": "i:0#.f|membership|erespinal@pucmm.edu.do",
+            "DisplayName": "Edwin Rafael Espinal Hernández",
+            "Email": "erespinal@pucmm.edu.do",
+            "Picture": "https://pucmmedudo.sharepoint.com/sites/servicios/_layouts/15/UserPhoto.aspx?Size=L&AccountName=erespinal@pucmm.edu.do",
+            "Department": "Escuela de Derecho",
+            "JobTitle": "Director"
+        },
+        "Expositores": "Nacionales",
+        "Categoria": "Foro",
+        "programacion": [
+            {
+                "StartDateAndTime": "2025-04-03T22:00:00Z",
+                "EndDateAndTime": "2025-04-04T00:00:00Z",
+                "Horas": "02:00:00"
+            }
+        ]
+    }
+]
